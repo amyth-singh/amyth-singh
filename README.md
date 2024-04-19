@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo1emcxcnBhdXNjcDAyZ25ud2d3aXZmMXNjYzNhaWw5M2s1dWMydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cIn5fTcjnKhStIeAef/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/cJ53VLbM1eEo4s1toi" width="100"/>
 </div>
 
 ### Hi there 👋
@@ -12,8 +12,3 @@ You can check out my Linkedin.
 
 #### Skills
 ![Python](https://img.icons8.com/color/48/000000/python.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Go](https://img.icons8.com/color/48/000000/golang.png) ![GCP](https://img.icons8.com/color/48/000000/google-cloud-platform.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Apache Airflow](https://img.icons8.com/color/48/000000/airflow.png) ![Apache Kafka](https://img.icons8.com/color/48/000000/kafka.png) ![Apache Spark](https://img.icons8.com/color/48/000000/apache-spark.png)
-
-
-
-
-
