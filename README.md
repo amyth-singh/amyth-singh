@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="[https://giphy.com/stickers/lerabling-peace-meditation-pray-cJ53VLbM1eEo4s1toi](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9nOTlkYmc2dDh4ZGticmhhaTY5endyc3F4OWNocTI2eDJoejZrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ53VLbM1eEo4s1toi/giphy.gif)" width="100"/>
+  <img src="https://giphy.com/stickers/lerabling-peace-meditation-pray-cJ53VLbM1eEo4s1toi" width="100"/>
 </div>
 
 ### Hi there 👋
