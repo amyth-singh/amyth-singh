@@ -1,3 +1,7 @@
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 
 I'm Amith Singh from London, United Kingdom, and I am a Data Engineer. I really enjoy building data pipelines and designing the infrastructure to support them.
