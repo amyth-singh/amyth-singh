@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm Amith Singh from London, United Kingdom, and I am a Data Engineer. I really enjoy building data pipelines and designing the infrastructure to support them.
+I'm Amith Singh from London, United Kingdom, and I am a Senior Data Engineer. I really enjoy building data pipelines and designing the infrastructure to support them.
 
 Please connect with me on Linkedin:
 
